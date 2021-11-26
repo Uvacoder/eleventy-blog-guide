@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/cfjedimaster/eleventy-blog-guide/issues"
   },
-  "homepage": "https://github.com/cfjedimaster/eleventy-blog-guide#readme",
+  "homepage": "https://eleventy-blog-guide.vercel.app",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1"
   }
